@@ -1,1 +1,22 @@
-/* TODO: Add your styles here */
+body {
+    background-color: violet;
+}
+
+h1 {
+    color: black;
+    font-family: arial;
+    text-shadow: black;
+    text-align: center;
+}
+div {
+  text-decoration-style: dashed;
+  text-align: center;
+}
+.question {
+  font-size: 20;
+  font-style:italic;
+  font-family: cursive;
+}
+.answer {
+  font-size: 14;
+}
